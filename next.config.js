@@ -2,5 +2,5 @@
 /* eslint-disable no-undef */
 
 module.exports = {
-  swcMinify: true
+  swcMinify: false
 };
